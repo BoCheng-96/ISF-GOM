@@ -1,4 +1,4 @@
 # ISF-GOM
 
 
-We will update the code in the future...
+A matlab implementation of the paper: "Eliminating Negative Word Similarities for Measuring Document Distances: A Thoroughly Empirical Study on Word Mover’s Distance."
