@@ -5,7 +5,7 @@ The matlab implementation of the paper: "Eliminating Negative Word Similarities 
 
 
 # Datasets
-Due to the limitation of file size, we upload the twitter dataset as an example.
+Due to the limitation of file size, we upload the bibtex dataset as an example.
 
 
 # Requirements
